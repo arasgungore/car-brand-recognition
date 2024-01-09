@@ -397,11 +397,11 @@ in the automotive industry.
 - [1] J. Krause, J. Deng, M. Stark, and L. Fei-Fei, ”Collecting a Large-
 Scale Dataset of Fine-Grained Cars,” Computer Science Department,
 Stanford University, and Max Planck Institute for Informatics. Available:
-https://ai.stanford.edu/ jkrause/papers/fgvc13.pdf.
+https://ai.stanford.edu/jkrause/papers/fgvc13.pdf.
 - [2] N. Benavides and C. Tae, ”Fine Grained Image Classification
 for Vehicle Makes Models using Convolutional
 Neural Networks,” Stanford University, 2019. Available:
-http://cs230.stanford.edu/projectsspring 2019 /reports/ 18681590 .pdf.
+http://cs230.stanford.edu/projectsspring2019/reports/18681590.pdf.
 - [3] K. He, X. Zhang, S. Ren, and J. Sun, ”Deep Residual Learning for
 Image Recognition,”arXiv preprint arXiv:1512.03385(2015). Available:
 https://arxiv.org/pdf/1512.03385.pdf.
