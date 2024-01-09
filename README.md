@@ -147,7 +147,7 @@ position, and pixel intensities.
 
 
 
-## IV. MODELARCHITECTURE
+## IV. MODEL ARCHITECTURE
 
 Our deep learning model for car brand recognition is
 based on transfer learning with the ResNet-50 architecture.
@@ -269,7 +269,7 @@ trained for 10 epochs with a batch size of 16.
 
 
 
-## V. TRAINING ANDFINE-TUNING
+## V. TRAINING AND FINE-TUNING
 
 ### A. Training
 
